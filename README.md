@@ -1,3 +1,5 @@
-# PVZ阳光模拟
+# Plants vs. Zombies Endless Sun Simulator
 
-使用golang编写。有两项功能：计算9990阳光起手的Xf破阵率；计算所有阳光起手（0至9990）的Xf破阵率。
+The program was written in golang. It can calculate the probability of running out of sun in a certain number of flags starting from sun = 9990, or starting from any possible amount of sun (0 to 9990).
+
+This was part of a PvZ endless study on Liang Yi.
